@@ -1,0 +1,2 @@
+class BingoCard < ApplicationRecord
+end

@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  week_number: 1
+  completed: MyString
+  notes: MyText
+  bingo_card: one
+  selected_square: one
+
+two:
+  week_number: 1
+  completed: MyString
+  notes: MyText
+  bingo_card: two
+  selected_square: two
